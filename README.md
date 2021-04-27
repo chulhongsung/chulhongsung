@@ -1,4 +1,4 @@
-## Profile :clipboard: 
+## :clipboard: Profile  
 
 ### PhD Student 
 - Statistic at University of Seoul
