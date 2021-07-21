@@ -6,4 +6,4 @@
 ### Research Interests : Machine Learning
 - Portfolio optimization
 - Density estimation
-- Multilabel learning
+- Multilabel classification
