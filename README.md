@@ -3,7 +3,7 @@
 ### PhD Student 
 - Statistics at University of Seoul
 
-### Research Interests : Machine Learning
+### Research Interests
 - Portfolio optimization
 - Machine learnging in finance
 - Multilabel classification
