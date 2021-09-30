@@ -1,4 +1,4 @@
-## SungChul Hong
+## 홍성철, SungChul Hong
 
 <a href="https://www.linkedin.com/in/sung-chul-hong-a75b1311b/">
     <img 
