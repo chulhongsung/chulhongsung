@@ -2,7 +2,7 @@
 
 <a href="https://chulhongsung.github.io">
     <img 
-        src="http://img.shields.io/badge/-Blog-222222?style=flat&logo=bootstrap&link=https://chulhongsung.github.io"
+        src="http://img.shields.io/badge/-Blog-222222?style=flat&logo=Github&link=https://chulhongsung.github.io"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -18,6 +18,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chulhongsung@gmail.com)](mailto:chulhongsung@gmail.com)
 
 ### PhD Student 
 - Statistics at University of Seoul
