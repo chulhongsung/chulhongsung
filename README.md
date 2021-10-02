@@ -18,8 +18,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chulhongsung@gmail.com)](mailto:chulhongsung@gmail.com)
-
+</a>
+    
 ### PhD Student 
 - Statistics at University of Seoul
 
