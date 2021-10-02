@@ -1,8 +1,8 @@
 ## 홍성철, SungChul Hong
 
-<a href="https://www.linkedin.com/in/sung-chul-hong-a75b1311b/">
+<a href="https://chulhongsung.github.io">
     <img 
-        src="https://img.shields.io/badge/-LinkedIn-222222?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/sung-chul-hong-a75b1311b/"
+        src="http://img.shields.io/badge/-Blog-222222?style=flat&logo=bootstrap&link=https://chulhongsung.github.io"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
@@ -12,9 +12,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a href="https://chulhongsung.github.io">
+<a href="https://www.linkedin.com/in/sung-chul-hong-a75b1311b/">
     <img 
-        src="http://img.shields.io/badge/-Blog-222222?style=flat&logo=bootstrap&link=https://chulhongsung.github.io"
+        src="https://img.shields.io/badge/-LinkedIn-222222?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/sung-chul-hong-a75b1311b/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
