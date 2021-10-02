@@ -18,8 +18,10 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chulhongsung@gmail.com)](mailto:chulhongsung@gmail.com)
+<a href="mailto:chulhongsung@gmail.com">
+    <img
+         src="https://img.shields.io/badge/Gmail-222222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chulhongsung@gmail.com"
+         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
     
 ### PhD Student 
