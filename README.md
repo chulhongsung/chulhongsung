@@ -9,7 +9,7 @@
 
 <a href="https://chulhongsung.github.io">
     <img 
-        src="http://img.shields.io/badge/-Tech blog-222222?style=flat&logo=Github&link=https://chulhongsung.github.io"
+        src="http://img.shields.io/badge/-Blog-222222?style=flat&logo=Github&link=https://chulhongsung.github.io"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
