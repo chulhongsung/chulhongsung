@@ -26,7 +26,7 @@
 </a>
     
 ### PhD Student 
-- Statistics at University of Seoul
+- Department of Statistics at University of Seoul
 
 ### Research Interests
 - Portfolio optimization
