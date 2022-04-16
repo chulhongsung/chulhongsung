@@ -28,7 +28,8 @@
 ### PhD Student 
 - Department of Statistics at University of Seoul
 
-### Research Interests 
-- Machine Learnging in Finance
+### Research Interests: Machine Learnging in Finance
+- Risk management
 - Portfolio optimization
 - Time-series forecasting([repo](https://github.com/chulhongsung/time-series-forecasting))
+- Reinforcement learning
