@@ -8,7 +8,7 @@
 - Department of Statistics at University of Seoul
 
 ### Research Interests: Machine Learnging in Finance
-- Portfolio optimization([repo](https://github.com/chulhongsung/UPR))
-- Time-series forecasting([repo](https://github.com/chulhongsung/time-series-forecasting))
-- Reinforcement learning([repo](https://github.com/chulhongsung/PDPG))
+- Portfolio optimization
+- Time-series forecasting
+- Reinforcement learning
 
