@@ -10,5 +10,5 @@
 ### Research Interests: Machine Learnging in Finance
 - Portfolio optimization
 - Time-series forecasting
-- Reinforcement learning
+- Online decision making (A\B Test, Bandit problem, Reinforcement learning)
 
