@@ -5,7 +5,7 @@
 [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@chulhongsung)](https://velog.io/@chulhongsung)
 
 ### PhD Student 
-- Department of Statistics at University of Seoul
+- Department of Statistics, University of Seoul
 
 ### Research Interests: Machine Learnging in Finance
 - Portfolio optimization
