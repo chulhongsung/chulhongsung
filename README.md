@@ -5,7 +5,7 @@
 
 I teach robots how to learn.
 
-### PhD Student 
+### PhD Candidate 
 - Department of Statistics, University of Seoul
 
 ### Research Interests: Machine Learnging in Finance
