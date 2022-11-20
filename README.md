@@ -10,6 +10,7 @@ I teach robots how to learn.
 
 ### Research Interests: Risk Averse AI
 - Risk theory and Portfolio optimization
-- Time series forecasting
 - Reinforcement learning
+- Time series forecasting
+
 
