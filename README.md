@@ -8,7 +8,7 @@ I teach robots how to learn.
 ### PhD Candidate 
 - Department of Statistics, University of Seoul
 
-### Research Interests: Machine Learnging in Finance
+### Research Interests: Risk Averse AI
 - Risk theory and Portfolio optimization
 - Time series forecasting
 - Reinforcement learning
