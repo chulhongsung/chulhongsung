@@ -9,11 +9,11 @@ I teach robots how to learn.
 - Department of Statistics, University of Seoul
 
 ### Main Research Topic: Risk Averse AI
-- Risk theory and Portfolio optimization
+- Portfolio optimization
 - Reinforcement learning
 - Time series forecasting
 
 ### Research Interests
 - Graph neural network
 - Meta learning
-- Imblanced Classification
+- Imblanced classification
