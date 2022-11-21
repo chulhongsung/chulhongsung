@@ -11,9 +11,9 @@ I teach robots how to learn.
 ### Main Research Topic: Risk Averse AI
 - Portfolio optimization
 - Reinforcement learning
-- Time series forecasting
 
 ### Research Interests
 - Graph neural network
 - Meta learning
 - Imblanced classification
+- Time series forecasting
