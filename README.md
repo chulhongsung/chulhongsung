@@ -8,9 +8,12 @@ I teach robots how to learn.
 ### PhD Candidate 
 - Department of Statistics, University of Seoul
 
-### Research Interests: Risk Averse AI
+### Main Research Topic: Risk Averse AI
 - Risk theory and Portfolio optimization
 - Reinforcement learning
 - Time series forecasting
 
-
+### Research Interests
+- Graph neural network
+- Meta learning
+- Imblanced Classification
