@@ -16,4 +16,4 @@ I teach robots how to learn.
 - Time series forecasting
 - Graph neural network
 - Meta learning
-- Generative model
+- Deep generative model
