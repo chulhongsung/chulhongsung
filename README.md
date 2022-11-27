@@ -14,5 +14,4 @@ I teach robots how to learn.
 
 ### Research Interests
 - Time series forecasting
-- Meta learning
 - Deep generative model
