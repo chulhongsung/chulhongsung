@@ -5,7 +5,7 @@
 
 I teach robots how to learn.
 
-### PhD Candidate(ABD)
+### PhD Candidate
 - Department of Statistics, University of Seoul
 
 ### Main Research Topic: Risk Averse AI
