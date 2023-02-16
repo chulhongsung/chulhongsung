@@ -5,12 +5,13 @@
 
 I teach robots how to learn.
 
-### Postdoc researcher, Department of Statistics, University of Seoul
+### Position
+- Postdoc researcher, Department of Statistics, University of Seoul
 
 ### Main Research Topic: Risk Averse AI
 - Portfolio optimization
 - Reinforcement learning
 
-### Research Interests
+### Other Research Interests
 - Time series forecasting
 - Causal inference
