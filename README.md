@@ -11,4 +11,3 @@ I teach robots how to learn.
 ### Research Interests
 - Portfolio optimization
 - Time series forecasting (Asset price forecasting)
-- Reinforcement learning
